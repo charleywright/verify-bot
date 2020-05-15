@@ -1,0 +1,23 @@
+{
+  "name": "verify-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charleywright/verify-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charleywright/verify-bot/issues"
+  },
+  "homepage": "https://github.com/charleywright/verify-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
